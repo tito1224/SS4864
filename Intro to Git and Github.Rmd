@@ -1,0 +1,18 @@
+---
+title: "Intro to Git and Github"
+author: "Tito"
+date: '2022-10-07'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Intro
+
+Link to website:https://happygitwithr.com/rstudio-git-github.html 
+```{r}
+
+```
+
